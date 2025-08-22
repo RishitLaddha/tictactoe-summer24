@@ -98,7 +98,7 @@ Blunder 1: Game 1, Move 4
 - Run:
   ```bash
   python tictactoe.py
-````
+```
 
 ---
 
