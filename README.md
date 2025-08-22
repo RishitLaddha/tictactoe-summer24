@@ -19,7 +19,7 @@ This is a compact, beginner-friendly notebook meant for learning and quick play.
 
 ## 🎮 How It Works
 
-![Workflow](tic%20tac%20toe.png)
+![Workflow](tic%20tac%20flow.png)
 
 **Game flow**
 1. You enter your name.
