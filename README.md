@@ -79,8 +79,7 @@ AI: 1 | abc: 0 | Tie: 1
 Blunders Report:
 Blunder 1: Game 1, Move 4
 
-````
-
+```
 ---
 
 ## ⚙️ Quick Setup
